@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-hello-world"
+  site-url: "https://megaduks.github.io/nbdev-hello-world"
+  description: "Tutorial repository for nbdev library"
+  repo-branch: main
+  repo-url: "https://github.com/megaduks/nbdev-hello-world"
