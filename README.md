@@ -17,7 +17,11 @@ pip install nbdev_hello_world
 Fill me in please! Don’t forget code examples:
 
 ``` python
-1+1
+from nbdev_hello_world.nbdev_hello_world import say_hello
 ```
 
-    2
+``` python
+say_hello("Hello World!")
+```
+
+    'Hello Hello World!!'
