@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdev-hello-world",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "nbdev-hello-world",
+    "section": "Install",
+    "text": "Install\npip install nbdev_hello_world"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "nbdev-hello-world",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\nfrom nbdev_hello_world.nbdev_hello_world import say_hello\n\n\nsay_hello(\"Hello World!\")\n\n'Hello Hello World!!'"
+  },
+  {
+    "objectID": "nbdev_hello_world.html",
+    "href": "nbdev_hello_world.html",
+    "title": "nbdev_hello_world",
+    "section": "",
+    "text": "source\n\nfoo\n\n foo ()\n\n\nsource\n\n\nsay_hello\n\n say_hello (to)\n\nSay hello to somebody\n\nassert say_hello(\"Hamel\")==\"Hello Hamel!\""
+  }
+]
